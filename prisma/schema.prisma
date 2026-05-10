@@ -18,6 +18,4 @@ model User{
   name String
   email String
   password Strimg
-
-  
 }
